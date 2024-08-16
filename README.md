@@ -1,11 +1,5 @@
 # Express API Starter with Typescript
 
-How to use this template:
-
-```sh
-npx create-express-api --typescript --directory my-api-name
-```
-
 Includes API Server utilities:
 
 - [morgan](https://www.npmjs.com/package/morgan)
@@ -29,10 +23,6 @@ Development utilities:
   - ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 - [typescript-eslint](https://typescript-eslint.io/)
   - Tooling which enables ESLint to support TypeScript.
-- [jest](https://www.npmjs.com/package/jest)
-  - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
-- [supertest](https://www.npmjs.com/package/supertest)
-  - HTTP assertions made easy via superagent.
 
 ## Setup
 
@@ -44,12 +34,6 @@ npm install
 
 ```
 npm run lint
-```
-
-## Test
-
-```
-npm run test
 ```
 
 ## Development
